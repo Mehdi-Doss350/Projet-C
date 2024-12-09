@@ -1,0 +1,78 @@
+106	Eau	Boissons	0.60	120	01/01/2026
+108	Pâtes	Alimentaire	1.20	70	15/06/2025
+109	Sucre	Alimentaire	1.80	90	10/12/2026
+110	Huile	Alimentaire	2.50	40	20/09/2026
+111	Savon	Hygiène	0.80	200	01/01/2030
+112	Shampoing	Hygiène	3.00	100	01/01/2030
+113	Dentifrice	Hygiène	1.50	150	01/01/2030
+114	Papier toilette	Hygiène	1.00	300	01/01/2030
+115	Pomme	Fruits	2.00	50	10/12/2024
+117	Orange	Fruits	2.20	80	15/12/2024
+118	Citron	Fruits	2.40	40	20/12/2024
+119	Tomate	Légumes	2.50	100	10/12/2024
+121	Carotte	Légumes	1.20	90	20/01/2025
+122	Poivron	Légumes	2.00	60	05/01/2025
+123	Concombre	Légumes	1.80	70	10/12/2024
+124	Oignon	Légumes	1.00	120	25/01/2025
+125	Ail	Légumes	2.00	80	30/01/2025
+126	Pomme de terre	Légumes	1.50	200	01/02/2025
+127	Poulet	Viande	5.00	50	10/12/2024
+128	Bœuf	Viande	6.00	40	15/12/2024
+129	Poisson	Poissonnerie	4.50	100	12/12/2024
+131	Riz	Alimentaire	1.80	200	10/01/2026
+132	Lentilles	Alimentaire	2.50	100	15/12/2026
+133	Haricots	Alimentaire	1.50	150	20/11/2026
+134	Farine	Alimentaire	1.00	50	01/06/2026
+135	Pépites de chocolat	Sucreries	2.00	80	25/07/2025
+136	Bonbons	Sucreries	1.00	200	01/08/2025
+137	Gâteaux	Sucreries	3.00	50	01/03/2025
+141	Pâtisserie	Sucreries	2.20	100	15/04/2025
+142	Biscuit	Sucreries	1.50	120	01/10/2025
+143	Légumes congelés	Légumes	2.50	80	15/12/2025
+144	Fruits congelés	Fruits	3.00	50	20/12/2025
+145	Jus de fruits	Boissons	2.00	86	15/03/2025
+146	Lait en poudre	Produits laitiers	3.50	60	10/01/2026
+147	Thé	Boissons	1.80	100	15/07/2026
+148	Café	Boissons	3.50	80	20/12/2026
+149	Chocolat chaud	Boissons	2.00	50	01/08/2025
+150	Miel	Sucreries	4.00	30	01/01/2028
+151	Vinaigre	Alimentaire	1.50	70	15/07/2026
+152	Sauce tomate	Alimentaire	2.20	60	20/12/2025
+153	Ketchup	Alimentaire	2.00	50	15/12/2025
+154	Mayonnaise	Alimentaire	2.50	40	10/11/2025
+155	Amandes	Fruits secs	3.00	20	01/12/2026
+156	Noix	Fruits secs	2.50	30	01/12/2026
+157	Cacahuètes	Fruits secs	1.80	60	01/12/2026
+158	Raisins secs	Fruits secs	3.50	50	01/11/2026
+159	Prunes	Fruits secs	2.00	70	01/11/2026
+160	Noisettes	Fruits secs	2.80	40	01/11/2026
+161	Chocolat noir	Sucreries	2.50	100	25/07/2025
+162	Chocolat au lait	Sucreries	1.80	150	25/07/2025
+163	Pépites de noix	Fruits secs	2.00	80	01/11/2026
+164	Ginseng	Boissons	4.00	20	10/10/2025
+165	Eau gazeuse	Boissons	1.00	150	01/01/2026
+166	Jus de pomme	Boissons	2.50	70	15/03/2025
+167	Jus de raisin	Boissons	3.00	50	20/03/2025
+168	Pétillant	Boissons	1.80	100	01/01/2026
+169	Eau minérale	Boissons	0.90	200	01/01/2026
+170	Confiture	Alimentaire	3.00	60	20/01/2027
+171	Moutarde	Alimentaire	1.50	80	01/11/2026
+172	Sauce soja	Alimentaire	2.00	40	01/11/2026
+173	Curry	Alimentaire	2.20	50	01/11/2026
+174	Gingembre	Alimentaire	2.00	30	01/11/2026
+175	Paprika	Alimentaire	1.80	70	01/11/2026
+176	Poivre	Alimentaire	1.20	120	01/11/2026
+177	Sel	Alimentaire	0.80	200	01/11/2026
+178	Gelée	Sucreries	2.50	40	25/07/2025
+179	Pâté	Alimentaire	3.00	30	01/06/2025
+180	Saucisses	Viande	4.50	40	01/05/2025
+181	Bacon	Viande	5.00	30	01/05/2025
+182	Charcuterie	Viande	6.00	20	01/04/2025
+183	Foie gras	Viande	15.00	10	01/02/2025
+184	Poisson fumé	Poissonnerie	8.00	30	10/12/2024
+185	Sardines	Poissonnerie	2.50	80	10/01/2025
+186	Saumon	Poissonnerie	10.00	50	15/12/2024
+187	Calamar	Poissonnerie	12.00	40	20/12/2024
+188	Tofu	Alimentaire	3.50	60	15/12/2025
+189	Vache qui rit	Produits laitiers	1.80	100	15/12/2024
+101	lait	Boissons	3.60	86	12/02/2025
